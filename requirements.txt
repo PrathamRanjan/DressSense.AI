@@ -1,0 +1,8 @@
+streamlit
+openai
+PIL
+io
+base64
+replicate
+streamlit-option-menu
+requests
