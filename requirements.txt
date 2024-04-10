@@ -1,6 +1,6 @@
 streamlit
 openai
-PIL
+Pillow
 io
 base64
 replicate
