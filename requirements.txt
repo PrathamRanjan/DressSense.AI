@@ -1,7 +1,6 @@
 streamlit
 openai
 Pillow
-base64
 replicate
 streamlit-option-menu
 requests
