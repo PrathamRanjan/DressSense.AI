@@ -4,3 +4,4 @@ Pillow
 replicate
 streamlit-option-menu
 requests
+PIL
