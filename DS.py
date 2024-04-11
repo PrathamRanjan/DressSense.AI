@@ -1,5 +1,5 @@
 import replicate
-from pillow import Image
+from PIL import Image
 import io 
 import base64
 from openai import OpenAI
