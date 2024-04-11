@@ -1,6 +1,6 @@
 streamlit
 openai
-Pillow
+PIL
 replicate
 streamlit-option-menu
 requests
