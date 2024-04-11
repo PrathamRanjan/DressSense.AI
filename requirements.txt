@@ -1,7 +1,7 @@
 streamlit
 openai
-PIL
+psycopg2
 replicate
 streamlit-option-menu
 requests
-PIL
+
