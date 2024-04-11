@@ -1,3 +1,8 @@
+import replicate
+from pillow import Image
+import io 
+import base64
+from openai import OpenAI
 
 weather_api = "0be641e1bbc1e83e986d8bb183d6a10c"
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
