@@ -3,9 +3,6 @@
 DressSense.AI is an AI powered fashion app that recommends outfits to you based on your specifications, and reviews your oufits providing constructive critsism, shows you how much your clothes are worth with just a picture, and more! 
 
 This app was built using, React Native for the front end, and Python and Flask for the Backend. Firebase was used as the database and authentication. OpenAI API, NEA API, and various other API's were also used for the features in the app. 
-<img width="500" alt="Screenshot 2024-07-10 at 2 17 45 AM" src="https://github.com/PrathamRanjan/DressSense.AI/assets/78290316/a0a79658-8926-4f3b-913c-889eb073dd16">
-<img width="276" alt="Screenshot 2024-07-10 at 2 16 47 AM" src="https://github.com/PrathamRanjan/DressSense.AI/assets/78290316/f0e67f5d-db2b-4334-99dd-bc1d6afedc35">
-
 
 ## Table of Contents
 
@@ -39,4 +36,5 @@ DressSenseAI was developed by an amazing team of collaborators:
 Check out our demo video to see DressSenseAI in action:
 
 [![DressSenseAI Demo](https://img.youtube.com/vi/raq6prdYOvs/0.jpg)](https://www.youtube.com/watch?v=raq6prdYOvs)
-
+<img width="500" alt="Screenshot 2024-07-10 at 2 17 45 AM" src="https://github.com/PrathamRanjan/DressSense.AI/assets/78290316/a0a79658-8926-4f3b-913c-889eb073dd16">
+<img width="276" alt="Screenshot 2024-07-10 at 2 16 47 AM" src="https://github.com/PrathamRanjan/DressSense.AI/assets/78290316/f0e67f5d-db2b-4334-99dd-bc1d6afedc35">
